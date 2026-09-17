@@ -17,14 +17,14 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ NAVNEET.OS :: PROFILE_KERNEL v3.0                                         │
+│ NAVNEET.OS :: PROFILE_KERNEL v4.0                                         │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ STATUS       :: ● ONLINE                                                   │
 │ MODE         :: BUILD / BREAK / LEARN / REPEAT                             │
 │ CORE         :: AI × FULL-STACK × SECURITY × SYSTEMS                       │
 │ MISSION      :: Turn ambitious ideas into useful software                  │
 │ PIPELINE     :: IDEA → ARCHITECTURE → CODE → TEST → SECURE → SHIP          │
-│ AUTOMATION   :: PROFILE_SNAKE / TELEMETRY / LIVE_ASSETS                    │
+│ AUTOMATION   :: PROFILE_PULSE / PROFILE_SNAKE / LIVE_ASSETS               │
 │ NEXT         :: MAKE_IT_REAL()                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -71,38 +71,24 @@ focus:
 ## 🗺️ `./system-map`
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/navneettsinghh/navneettsinghh/main/assets/system-map.svg" width="100%" alt="NAVNEET.OS system architecture map" />
-
 </div>
 
 ---
 
 ## ⚔️ `./stack`
 
-**Languages**
+**Languages** — `C#` `Python` `JavaScript` `TypeScript` `Java` `SQL` `HTML` `CSS`
 
-`C#` `Python` `JavaScript` `TypeScript` `Java` `SQL` `HTML` `CSS`
+**Frontend** — `React` `Next.js` `Tailwind CSS` `Angular` `Blazor`
 
-**Frontend**
+**Backend** — `ASP.NET Core` `.NET 6+` `Node.js` `Express` `REST APIs` `GraphQL` `Entity Framework` `LINQ`
 
-`React` `Next.js` `Tailwind CSS` `Angular` `Blazor`
+**Data** — `PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis`
 
-**Backend**
+**Cloud / DevOps** — `Azure` `Docker` `GitHub Actions` `Azure DevOps` `CI/CD` `IIS` `Git`
 
-`ASP.NET Core` `.NET 6+` `Node.js` `Express` `REST APIs` `GraphQL` `Entity Framework` `LINQ`
-
-**Data**
-
-`PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis`
-
-**Cloud / DevOps**
-
-`Azure` `Docker` `GitHub Actions` `Azure DevOps` `CI/CD` `IIS` `Git`
-
-**AI / Security**
-
-`LLM Applications` `AI Agents` `RAG` `Automation` `Web Security` `API Security` `PoC Development`
+**AI / Security** — `LLM Applications` `AI Agents` `RAG` `Automation` `Web Security` `API Security` `PoC Development`
 
 ---
 
@@ -111,32 +97,32 @@ focus:
 ### 🧠 [NeuroWeave-AI](https://github.com/navneettsinghh/NeuroWeave-AI)
 > Intelligent agents and connected AI workflows.
 
-`AI` `Agents` `Python`
-
 ### 🖥️ [NOS-X-portfolio](https://github.com/navneettsinghh/NOS-X-portfolio)
 > An experimental operating-system-style portfolio experience.
-
-`HTML` `JavaScript` `Creative UI`
 
 ### 🌀 [Whisper-Ai-Wall](https://github.com/navneettsinghh/Whisper-Ai-Wall)
 > AI-powered creative web experience.
 
-`AI` `Web` `JavaScript`
-
 ### 💻 [Portfolio](https://github.com/navneettsinghh/Portfolio)
 > Personal portfolio engineering project.
-
-`HTML` `CSS` `JavaScript`
 
 ### 🌐 [navneetsingh.github.io](https://github.com/navneettsinghh/navneetsingh.github.io)
 > Public-facing portfolio website.
 
-`HTML` `CSS` `JavaScript`
-
 ### 💫 [Forever-us](https://github.com/navneettsinghh/Forever-us)
 > Interactive creative frontend experience.
 
-`JavaScript` `Web`
+---
+
+## 🧬 `./profile-pulse` — SELF-EVOLVING PROFILE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/navneettsinghh/navneettsinghh/main/assets/profile-pulse.svg" width="100%" alt="Live GitHub profile pulse generated from repository telemetry" />
+
+</div>
+
+> This panel is generated automatically from GitHub's public profile/repository data. It refreshes on a schedule through GitHub Actions, so the profile can evolve as the codebase evolves.
 
 ---
 
@@ -169,14 +155,10 @@ Areas of exploration:
 ## 📊 `./telemetry`
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=navneettsinghh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&rank_icon=github&include_all_commits=true" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneettsinghh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff&langs_count=8" height="180" />
-
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=navneettsinghh&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=FFFFFF" width="72%" />
-
 </div>
 
 ---
@@ -184,13 +166,9 @@ Areas of exploration:
 ## 🐍 `./contribution-engine`
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/navneettsinghh/navneettsinghh/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="Automatically generated contribution snake" />
-
 <br/>
-
-[![Profile Snake](https://img.shields.io/github/actions/workflow/status/navneettsinghh/navneettsinghh/profile-snake.yml?label=PROFILE%20AUTOMATION&style=flat-square)](https://github.com/navneettsinghh/navneettsinghh/actions)
-
+[![Profile Automation](https://img.shields.io/github/actions/workflow/status/navneettsinghh/navneettsinghh/profile-snake.yml?label=PROFILE%20AUTOMATION&style=flat-square)](https://github.com/navneettsinghh/navneettsinghh/actions)
 </div>
 
 ---
@@ -198,9 +176,7 @@ Areas of exploration:
 ## 🏆 `./achievements`
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=navneettsinghh&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />
-
 </div>
 
 ---
