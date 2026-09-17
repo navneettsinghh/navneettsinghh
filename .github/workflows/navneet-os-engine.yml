@@ -1,0 +1,29 @@
+name: NAVNEET.OS Activity Engine
+
+on:
+  schedule:
+    - cron: '31 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate activity dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/navneet-os.mjs
+
+      - name: Publish dashboard
+        run: |
+          git config user.name 'NAVNEET.OS'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/navneet-os-activity.svg
+          git diff --cached --quiet || git commit -m 'chore(profile): refresh NAVNEET.OS activity'
+          git push
