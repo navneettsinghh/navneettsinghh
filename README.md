@@ -17,13 +17,14 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ NAVNEET.OS :: PROFILE_KERNEL v2.0                                         │
+│ NAVNEET.OS :: PROFILE_KERNEL v3.0                                         │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ STATUS       :: ● ONLINE                                                   │
 │ MODE         :: BUILD / BREAK / LEARN / REPEAT                             │
 │ CORE         :: AI × FULL-STACK × SECURITY × SYSTEMS                       │
 │ MISSION      :: Turn ambitious ideas into useful software                  │
 │ PIPELINE     :: IDEA → ARCHITECTURE → CODE → TEST → SECURE → SHIP          │
+│ AUTOMATION   :: PROFILE_SNAKE / TELEMETRY / LIVE_ASSETS                    │
 │ NEXT         :: MAKE_IT_REAL()                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -64,6 +65,16 @@ focus:
 <td width="33%" align="center"><b>🎨 PRODUCT</b><br/><sub>UX · Interfaces · Prototyping · Shipping</sub></td>
 </tr>
 </table>
+
+---
+
+## 🗺️ `./system-map`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/navneettsinghh/navneettsinghh/main/assets/system-map.svg" width="100%" alt="NAVNEET.OS system architecture map" />
+
+</div>
 
 ---
 
@@ -174,7 +185,11 @@ Areas of exploration:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/navneettsinghh/navneettsinghh/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="Automatically generated contribution snake" />
+
+<br/>
+
+[![Profile Snake](https://img.shields.io/github/actions/workflow/status/navneettsinghh/navneettsinghh/profile-snake.yml?label=PROFILE%20AUTOMATION&style=flat-square)](https://github.com/navneettsinghh/navneettsinghh/actions)
 
 </div>
 
