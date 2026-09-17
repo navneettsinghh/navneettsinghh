@@ -17,7 +17,7 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ PROFILE_KERNEL v6.0 :: DEVELOPER COMMAND CENTER                            │
+│ PROFILE_KERNEL v7.0 :: DEVELOPER COMMAND CENTER                            │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │ IDENTITY     :: Navneet Singh Dogra                                        │
 │ ROLE         :: AI Engineer / Full-Stack / AI Product / Security            │
@@ -39,9 +39,17 @@ I'm **Navneet Singh Dogra**, a Computer Science & Engineering graduate focused o
 
 I enjoy the entire product loop: **architecture → interface → backend → data → AI → security → deployment → iteration**.
 
-### Operating principles
-
 `Useful > flashy` · `Secure by design` · `Automate what repeats` · `Document what matters` · `Ship and improve`
+
+---
+
+## 🧬 `./profile-intelligence` — LIVE ENGINEERING SURFACE
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/navneettsinghh/navneettsinghh/main/assets/profile-intelligence.svg" width="100%" alt="Profile intelligence dashboard" />
+</div>
+
+**What makes this different:** the profile now has a machine-generated intelligence layer that reads public repository activity, language surface, project metadata, and recent commit signals. It is refreshed automatically by GitHub Actions.
 
 ---
 
@@ -205,4 +213,4 @@ Exploration areas:
 
 </div>
 
-<!-- Profile README: navneettsinghh/navneetsinghh -->
+<!-- Profile README: navneettsinghh/navneettsinghh -->
