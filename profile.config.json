@@ -1,0 +1,15 @@
+{
+  "schema": "navneet.os/profile@1",
+  "identity": {
+    "name": "Navneet Singh Dogra",
+    "handle": "navneettsinghh",
+    "role": ["AI Engineer", "Full-Stack Developer", "AI Product Engineer", "Security Researcher"]
+  },
+  "systems": ["AI", "Full-Stack", "Security", "Cloud", "Automation", "Product Engineering"],
+  "principles": ["Think in systems", "Build useful software", "Security by design", "Automate repetitive work", "Ship, learn, improve"],
+  "profile_engine": {
+    "generated_assets": ["assets/profile-pulse.svg", "assets/navneet-os-activity.svg"],
+    "automation": true,
+    "source_of_truth": "public GitHub activity"
+  }
+}
