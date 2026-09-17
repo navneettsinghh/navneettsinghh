@@ -1,172 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f33,100:00e5ff&height=180&section=header&text=NAVNEET%20SINGH%20DOGRA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20SECURITY%20%E2%80%A2%20SYSTEMS&descAlignY=60&descSize=16" width="100%" />
+<img src="https://raw.githubusercontent.com/navneettsinghh/navneettsinghh/main/assets/navneet-os.svg" width="100%" alt="NAVNEET.OS" />
 
-# `whoami` → **Navneet Singh Dogra**
-
-### `AI Engineer` · `Full-Stack Developer` · `AI Product Engineer` · `Security Researcher`
-
-**I don't just write code. I build systems, products, experiments, and tools.**
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navneettsinghh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneetsinghdogra/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/navneettsinghh/navneetsingh.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=navneettsinghh&style=for-the-badge&color=00e5ff)
 
 </div>
 
 ---
 
-## 🖥️ `NAVNEET.OS` — SYSTEM STATUS
+## 🖥️ `NAVNEET.OS` — BOOT SEQUENCE
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  NAVNEET.OS                                                         │
-├──────────────────────────────────────────────────────────────────────┤
-│  STATUS        :: ONLINE                                            │
-│  MODE          :: BUILD / BREAK / LEARN / REPEAT                    │
-│  SPECIALTY     :: AI × FULL-STACK × SECURITY                        │
-│  MISSION       :: Turn difficult ideas into working software         │
-│  CURRENT LOOP  :: Idea → Architecture → Code → Test → Ship          │
-│  PHILOSOPHY    :: Build things worth remembering                     │
-└──────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ NAVNEET.OS :: PROFILE_KERNEL v2.0                                         │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ STATUS       :: ● ONLINE                                                   │
+│ MODE         :: BUILD / BREAK / LEARN / REPEAT                             │
+│ CORE         :: AI × FULL-STACK × SECURITY × SYSTEMS                       │
+│ MISSION      :: Turn ambitious ideas into useful software                  │
+│ PIPELINE     :: IDEA → ARCHITECTURE → CODE → TEST → SECURE → SHIP          │
+│ NEXT         :: MAKE_IT_REAL()                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-> 💾 **Code is my canvas. Systems are my craft.**
+> **Code is my canvas. Payloads are my brush. Systems are my craft.**
 
 ---
 
-## 🧬 `./about-me`
+## 🧬 `./about`
 
-I'm a **B.Tech Computer Science & Engineering graduate (2025)** focused on building modern software across **AI, full-stack development, automation, cloud, and cybersecurity**.
+I'm **Navneet Singh Dogra**, a Computer Science & Engineering graduate focused on building at the intersection of **AI, full-stack engineering, automation, cloud, and cybersecurity**.
 
-I like working at the intersection where software engineering meets ambitious product ideas — designing the architecture, building the interface, connecting the backend, integrating AI, securing the system, and getting it deployed.
+I enjoy taking an idea from a blank screen to a working product: architecture, frontend, backend, databases, AI integrations, security, deployment, and iteration.
 
-### Current interests
+```yaml
+focus:
+  - AI applications & agents
+  - Full-stack SaaS
+  - Developer tools & automation
+  - API and web security
+  - Cloud-native systems
+  - Product engineering
+```
 
-`AI Agents` · `LLM Applications` · `RAG` · `Full-Stack SaaS` · `Web Security` · `APIs` · `Cloud` · `Automation` · `Developer Tools` · `System Design`
+---
+
+## ⚡ `./capabilities`
+
+<table>
+<tr>
+<td width="33%" align="center"><b>🤖 AI ENGINEERING</b><br/><sub>LLM apps · Agents · RAG · Automation</sub></td>
+<td width="33%" align="center"><b>🌐 FULL-STACK</b><br/><sub>React · Next.js · .NET · Node · APIs</sub></td>
+<td width="33%" align="center"><b>🛡️ SECURITY</b><br/><sub>Web · API · Auth · PoCs · Research</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center"><b>☁️ CLOUD</b><br/><sub>Azure · Docker · CI/CD · GitHub Actions</sub></td>
+<td width="33%" align="center"><b>🧠 SYSTEMS</b><br/><sub>Architecture · Databases · Integration</sub></td>
+<td width="33%" align="center"><b>🎨 PRODUCT</b><br/><sub>UX · Interfaces · Prototyping · Shipping</sub></td>
+</tr>
+</table>
 
 ---
 
 ## ⚔️ `./stack`
 
-### Languages
+**Languages**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+`C#` `Python` `JavaScript` `TypeScript` `Java` `SQL` `HTML` `CSS`
 
-### Frontend
+**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+`React` `Next.js` `Tailwind CSS` `Angular` `Blazor`
 
-### Backend & Data
+**Backend**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+`ASP.NET Core` `.NET 6+` `Node.js` `Express` `REST APIs` `GraphQL` `Entity Framework` `LINQ`
 
-### Cloud / DevOps
+**Data**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+`PostgreSQL` `SQL Server` `MySQL` `MongoDB` `Redis`
 
-### AI / Security
+**Cloud / DevOps**
 
-![AI](https://img.shields.io/badge/AI%20Engineering-111111?style=flat-square&logo=openai&logoColor=white) ![Agents](https://img.shields.io/badge/AI%20Agents-111111?style=flat-square&logo=probot&logoColor=white) ![Security](https://img.shields.io/badge/Web%20Security-111111?style=flat-square&logo=owasp&logoColor=white) ![APIs](https://img.shields.io/badge/API%20Security-111111?style=flat-square&logo=fastapi&logoColor=white)
+`Azure` `Docker` `GitHub Actions` `Azure DevOps` `CI/CD` `IIS` `Git`
+
+**AI / Security**
+
+`LLM Applications` `AI Agents` `RAG` `Automation` `Web Security` `API Security` `PoC Development`
 
 ---
 
-## 🚀 `./projects`
+## 🚀 `./featured-projects`
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 NeuroWeave-AI
-
-AI-focused project exploring intelligent agents and connected workflows.
+### 🧠 [NeuroWeave-AI](https://github.com/navneettsinghh/NeuroWeave-AI)
+> Intelligent agents and connected AI workflows.
 
 `AI` `Agents` `Python`
 
-<a href="https://github.com/navneettsinghh/NeuroWeave-AI">→ Explore repository</a>
-
-</td>
-<td width="50%">
-
-### 🖥️ NOS-X-portfolio
-
-An experimental portfolio experience designed around an operating-system-style interface.
+### 🖥️ [NOS-X-portfolio](https://github.com/navneettsinghh/NOS-X-portfolio)
+> An experimental operating-system-style portfolio experience.
 
 `HTML` `JavaScript` `Creative UI`
 
-<a href="https://github.com/navneettsinghh/NOS-X-portfolio">→ Explore repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌀 Whisper-Ai-Wall
-
-An AI-powered creative web experience built around generative interaction.
+### 🌀 [Whisper-Ai-Wall](https://github.com/navneettsinghh/Whisper-Ai-Wall)
+> AI-powered creative web experience.
 
 `AI` `Web` `JavaScript`
 
-<a href="https://github.com/navneettsinghh/Whisper-Ai-Wall">→ Explore repository</a>
-
-</td>
-<td width="50%">
-
-### 💻 Portfolio
-
-A personal portfolio project focused on presenting engineering work through a modern web experience.
+### 💻 [Portfolio](https://github.com/navneettsinghh/Portfolio)
+> Personal portfolio engineering project.
 
 `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/navneettsinghh/Portfolio">→ Explore repository</a>
+### 🌐 [navneetsingh.github.io](https://github.com/navneettsinghh/navneetsingh.github.io)
+> Public-facing portfolio website.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+`HTML` `CSS` `JavaScript`
 
-### 🌐 Forever-us
-
-An interactive web experience built as a creative frontend project.
+### 💫 [Forever-us](https://github.com/navneettsinghh/Forever-us)
+> Interactive creative frontend experience.
 
 `JavaScript` `Web`
-
-<a href="https://github.com/navneettsinghh/Forever-us">→ Explore repository</a>
-
-</td>
-<td width="50%">
-
-### 📡 navneetsingh.github.io
-
-Personal portfolio website and public-facing developer presence.
-
-`HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/navneettsinghh/navneetsingh.github.io">→ Explore repository</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🛡️ `./security-lab`
 
 ```text
-RESEARCH PIPELINE
-
-[ UNDERSTAND ]
-       ↓
-[ REPRODUCE ]
-       ↓
-[ VALIDATE ]
-       ↓
-[ DOCUMENT ]
-       ↓
-[ RESPONSIBLE DISCLOSURE ]
+┌─────────────── SECURITY RESEARCH LOOP ───────────────┐
+│                                                     │
+│   UNDERSTAND → REPRODUCE → VALIDATE → DOCUMENT     │
+│                         ↓                           │
+│                 RESPONSIBLE DISCLOSURE              │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
-Areas I explore:
+Areas of exploration:
 
 - 🔎 Web application security
 - 🔐 Authentication & authorization
@@ -176,69 +151,89 @@ Areas I explore:
 - 🏗️ Secure application architecture
 - 📚 Security-focused engineering
 
-**Security mindset:** learn how systems fail so better systems can be built.
+> **Learn how systems fail. Build systems that fail less.**
 
 ---
 
-## 📊 `./github-stats`
+## 📊 `./telemetry`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navneettsinghh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneettsinghh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=navneettsinghh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&rank_icon=github&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneettsinghh&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff&langs_count=8" height="180" />
 
-<img src="https://streak-stats.demolab.com?user=navneettsinghh&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=FFFFFF" width="70%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=navneettsinghh&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=FFFFFF" width="72%" />
 
 </div>
 
 ---
 
-## 🏆 `./activity`
+## 🐍 `./contribution-engine`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=navneettsinghh&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake" />
 
 </div>
 
 ---
 
-## 🧠 `./engineering-manifesto`
+## 🏆 `./achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=navneettsinghh&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🔭 `./current-state`
+
+```text
+[■■■■■■■■■■] AI / AGENT SYSTEMS
+[■■■■■■■■■□] FULL-STACK ENGINEERING
+[■■■■■■■■□□] SECURITY RESEARCH
+[■■■■■■■□□□] CLOUD / DEVOPS
+[■■■■■■■■■□] PRODUCT ENGINEERING
+```
+
+### Currently exploring
+
+`AI Agents` · `RAG` · `SaaS Architecture` · `Web Security` · `Cloud` · `Automation` · `Developer Tools`
+
+---
+
+## 🧠 `./manifesto`
 
 ```text
 01  Think in systems.
 02  Build before overthinking.
-03  Make the interface feel inevitable.
+03  Make complexity disappear behind good UX.
 04  Treat security as architecture.
 05  Automate repetitive work.
 06  Document what matters.
-07  Ship, learn, improve.
+07  Ship → learn → improve.
 08  Stay curious.
 ```
 
 ---
 
-## 🔭 `./currently-building`
-
-```text
-[01] AI applications & agent workflows
-[02] Full-stack SaaS systems
-[03] Developer productivity tooling
-[04] Security research & responsible PoCs
-[05] Cloud-native deployment workflows
-[06] Experiments at the intersection of AI × software × security
-```
-
----
-
-## 🌐 `./connect`
+## 📡 `./connect`
 
 <div align="center">
 
-**Open to conversations, collaborations, engineering opportunities, and ambitious software projects.**
+**Open to engineering conversations, collaborations, ambitious products, and opportunities to build.**
 
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/navneetsinghdogra/)
-[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/navneettsinghh/navneetsingh.github.io)
+[![CONNECT](https://img.shields.io/badge/LET'S_BUILD-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/navneettsinghh)
+[![LINKEDIN](https://img.shields.io/badge/NETWORK-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneetsinghdogra/)
+[![PORTFOLIO](https://img.shields.io/badge/EXPLORE-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/navneettsinghh/navneetsingh.github.io)
+
+<br/>
+
+`BUILD → BREAK → LEARN → REPEAT`
 
 </div>
 
@@ -246,9 +241,9 @@ Areas I explore:
 
 <div align="center">
 
-### `BUILD → BREAK → LEARN → REPEAT`
+### `> next_goal --make_an_impact`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0b1f33,100:050505&height=110&section=footer" width="100%" />
+**Status:** `IN_PROGRESS` 🟢
 
 </div>
 
